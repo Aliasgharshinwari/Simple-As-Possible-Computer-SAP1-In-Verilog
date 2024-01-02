@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Uni/COA Lab/Lab 10 Project
+vpc
+!s110 1704111161
+!i10b 1
+!s100 eC=5RkmL:FYbYiA[DX8Y_0
+ImV2;zi3?>^lfX@<okAMN=0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/Uni/COA Lab/SAP1
+w1704111144
+8D:\Uni\COA Lab\SAP1\pc.v
+FD:\Uni\COA Lab\SAP1\pc.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1704111161.000000
+!s107 D:\Uni\COA Lab\SAP1\pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\COA Lab\SAP1\pc.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vram
+!s110 1704115809
+!i10b 1
+!s100 b?JBWH4D7A@XCN7cQeWAH0
+I^69BeQU^LcGUeL>Va<gWl1
+R0
+R1
+w1704115569
+8D:/Uni/COA Lab/SAP1/ram.v
+FD:/Uni/COA Lab/SAP1/ram.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1704115809.000000
+!s107 D:/Uni/COA Lab/SAP1/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/COA Lab/SAP1/ram.v|
+!i113 1
+R3
+R4
+vram_tb
+!s110 1704114945
+!i10b 1
+!s100 RH_[UcMY<O6>]cO8P<D8L0
+IVf^Bdc:W:OEKe91h][9Za1
+R0
+R1
+w1704114938
+8D:\Uni\COA Lab\SAP1\tb_ram.v
+FD:\Uni\COA Lab\SAP1\tb_ram.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1704114945.000000
+!s107 D:\Uni\COA Lab\SAP1\tb_ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\COA Lab\SAP1\tb_ram.v|
+!i113 1
+R3
+R4
+vtb_pc
+!s110 1704110746
+!i10b 1
+!s100 zGj1nJfCC^i<c5kC>FWOS0
+IVShJ=fEKZWbO4G@c:[K890
+R0
+R1
+w1704110541
+8D:\Uni\COA Lab\SAP1\tb_pc.v
+FD:\Uni\COA Lab\SAP1\tb_pc.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1704110746.000000
+!s107 D:\Uni\COA Lab\SAP1\tb_pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\COA Lab\SAP1\tb_pc.v|
+!i113 1
+R3
+R4
