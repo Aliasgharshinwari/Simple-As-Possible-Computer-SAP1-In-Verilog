@@ -1,4 +1,4 @@
-{D:/Uni/COA Lab/SAP1/pc.v} {1 {vlog -work work -stats=none {D:\Uni\COA Lab\SAP1\pc.v}
+{D:/Uni/COA Lab/SAP1/pc.v} {1 {vlog -work work -stats=none {D:/Uni/COA Lab/SAP1/pc.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module pc
 
@@ -12,12 +12,19 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	ram
 
-} {} {}} {D:/Uni/COA Lab/SAP1/tb_pc.v} {1 {vlog -work work -stats=none {D:\Uni\COA Lab\SAP1\tb_pc.v}
+} {} {}} {D:/Uni/COA Lab/SAP1/tb_pc.v} {1 {vlog -work work -stats=none {D:/Uni/COA Lab/SAP1/tb_pc.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module tb_pc
 
 Top level modules:
 	tb_pc
+
+} {} {}} {D:/Uni/COA Lab/SAP1/mar.v} {1 {vlog -work work -stats=none {D:\Uni\COA Lab\SAP1\mar.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mar
+
+Top level modules:
+	mar
 
 } {} {}} {D:/Uni/COA Lab/SAP1/tb_ram.v} {1 {vlog -work work -stats=none {D:\Uni\COA Lab\SAP1\tb_ram.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
@@ -25,5 +32,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 
 Top level modules:
 	ram_tb
+
+} {} {}} {D:/Uni/COA Lab/SAP1/bus.v} {1 {vlog -work work -stats=none {D:/Uni/COA Lab/SAP1/bus.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bus
+
+Top level modules:
+	bus
 
 } {} {}}

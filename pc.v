@@ -1,18 +1,24 @@
-module pc(Clk, rst, out);
+module pc(CLK, CLR, Cp, Ep, value, out);
 
-	input rst;
-	input Clk;	
+	input CLR;
+	input CLK;	
+	input Cp;
+	input Ep;
 	
-	output reg [3:0]out = 0;
+	output [3:0]value;
+	output reg [3:0]out = 4'b0;
 	
-	
-	always@(negedge Clk)
+	always@(negedge CLK) begin
 
-	if (rst)
+		if(CLR && Ep) begin
+			out <= 4'b0;
+		end
 		
-		out <= 1'b0;
+		else if (Cp && Ep) begin
+			out <= out + 1;	
+		end
 		
-	else	
-		out <= out + 1;
-	
+	end
+//		assign out = value;
+		
 endmodule
