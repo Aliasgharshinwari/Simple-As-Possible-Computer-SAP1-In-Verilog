@@ -44,7 +44,7 @@ R3
 r1
 !s85 0
 31
-Z6 !s108 1707477929.000000
+!s108 1707477929.000000
 !s107 D:\Uni\SAP1\alu.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\SAP1\alu.v|
 !i113 1
@@ -65,7 +65,7 @@ R3
 r1
 !s85 0
 31
-Z7 !s108 1707474973.000000
+Z6 !s108 1707474973.000000
 !s107 D:/Uni/SAP1/control_sequencer.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/SAP1/control_sequencer.v|
 !i113 1
@@ -107,9 +107,30 @@ R3
 r1
 !s85 0
 31
-R7
+R6
 !s107 D:/Uni/SAP1/mar.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/SAP1/mar.v|
+!i113 1
+R4
+R5
+voutput_register
+!s110 1707478768
+!i10b 1
+!s100 >KClM?cOaeR^HAXZFQ2NS0
+I^UKWUbOnA6==N9Qf_;=Ej0
+R1
+R2
+w1707478762
+8D:\Uni\SAP1\output_register.v
+FD:\Uni\SAP1\output_register.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1707478768.000000
+!s107 D:\Uni\SAP1\output_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\SAP1\output_register.v|
 !i113 1
 R4
 R5
@@ -170,7 +191,7 @@ R3
 r1
 !s85 0
 31
-R7
+R6
 !s107 D:/Uni/SAP1/ram.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/SAP1/ram.v|
 !i113 1
@@ -191,20 +212,20 @@ R3
 r1
 !s85 0
 31
-R7
+R6
 !s107 D:/Uni/SAP1/reg_b.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/SAP1/reg_b.v|
 !i113 1
 R4
 R5
 vtop
-!s110 1707477930
+!s110 1707479753
 !i10b 1
-!s100 oijX1U2bAW4PVGbkO[21a3
-IbZIEc=;GW[9gZl2;kZ4?l0
+!s100 j`JeCiTEJbTQnOmfIV2aD0
+Ig@:hg0Abj?Mhaz4zLmbgS2
 R1
 R2
-w1707477922
+w1707479744
 8D:\Uni\SAP1\top.v
 FD:\Uni\SAP1\top.v
 L0 1
@@ -212,7 +233,7 @@ R3
 r1
 !s85 0
 31
-R6
+!s108 1707479753.000000
 !s107 D:\Uni\SAP1\top.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:\Uni\SAP1\top.v|
 !i113 1
@@ -233,7 +254,7 @@ R3
 r1
 !s85 0
 31
-R7
+R6
 !s107 D:/Uni/SAP1/top_tb.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/Uni/SAP1/top_tb.v|
 !i113 1
